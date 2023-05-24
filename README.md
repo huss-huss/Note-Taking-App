@@ -13,6 +13,7 @@ MONGO_URI=mongodb://localhost:27017/noteDB
 TOKEN_SECRET=thisisafakejwtsecretkey
 
 finally , in your root directory,
+
 npm run dev
 
 
